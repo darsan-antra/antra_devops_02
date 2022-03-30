@@ -1,3 +1,5 @@
 This is going to be a conflict.
 
 Creating conflict using the same file.
+
+Merge conflict fixed.
